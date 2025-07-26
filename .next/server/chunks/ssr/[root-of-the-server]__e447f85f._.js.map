@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/prodesign/Desktop/Learn%20React/NextJS/nextjs-dashboard/dashboard-app/app/dashboard/invoices/page.tsx"],"sourcesContent":["export default function Page() {\n    return <p>Invoices Page</p>;\n  }"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBAAO,8OAAC;kBAAE;;;;;;AACZ","debugId":null}}]
+}
