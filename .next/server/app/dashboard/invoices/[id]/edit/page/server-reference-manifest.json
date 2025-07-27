@@ -1,0 +1,16 @@
+{
+  "node": {
+    "60745cde0acef5e59aa842ee1d35591773e520cc3d": {
+      "workers": {
+        "app/dashboard/invoices/[id]/edit/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/lib/action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
