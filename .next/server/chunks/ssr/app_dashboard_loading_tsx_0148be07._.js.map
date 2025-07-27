@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file:///Users/prodesign/Desktop/Learn%20React/NextJS/nextjs-dashboard/dashboard-app/app/dashboard/loading.tsx"],"sourcesContent":["export default function Loading() {\n    return <div>Loading...</div>;\n  }"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBAAO,8OAAC;kBAAI;;;;;;AACd","debugId":null}}]
+}
