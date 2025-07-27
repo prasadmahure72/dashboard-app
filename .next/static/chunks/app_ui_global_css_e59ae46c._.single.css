@@ -808,6 +808,14 @@ select {
   height: 100vh;
 }
 
+.h-44 {
+  height: 11rem;
+}
+
+.h-2 {
+  height: .5rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1670,6 +1678,14 @@ input[type="number"]::-webkit-outer-spin-button {
 
   .md\:h-52 {
     height: 13rem;
+  }
+
+  .md\:h-2 {
+    height: .5rem;
+  }
+
+  .md\:h-20 {
+    height: 5rem;
   }
 
   .md\:w-2\/5 {
