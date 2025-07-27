@@ -1,7 +1,6 @@
 import AcmeLogo from "@/app/ui/acme-logo";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
-import styles from "@/app/ui/home.module.css";
 import { lusitana } from "@/app/ui/fonts";
 import Image from "next/image";
 
@@ -18,7 +17,7 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Loki's Dashboard.</strong> I am Learning{" "}
+            <strong>Welcome to Loki&apos;s Dashboard.</strong> I am Learning{" "}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js
             </a>
